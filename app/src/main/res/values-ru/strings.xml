@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="edit_message">введите сообщение</string>
+    <string name="button_send">отправить</string>
+    <string name="action_settings">настройки</string>
+    <string name="tital_activity_main">Главная активность</string>
+    <string name="tital_activity_display_message">Мое сообщение</string>
+    <string name="action_search">поиск</string>
+    <string name="but_fr_1">фрагмент 1</string>
+    <string name="but_fr_2">фрагмент 2</string>
+    <string name="buttonSave">сохранить</string>
+    <string name="reTextButton">сбросить</string>
+    <string name="fileSave">файлы</string>
+    <string name="read_message">прочитать файл</string>
+    <string name="saved">сохранено</string>
+    <string name="delete_message">удалить</string>
+    <string name="deleted">удалено</string>
+    <string name="read_base">прочитать базу</string>
+    <string name="to_base">к базе данных</string>
+    <string name="database">База данных</string>
+    <string name="name">Имя</string>
+    <string name="age">Возраст</string>
+    <string name="add_to_base">добавить в базу</string>
+    <string name="edit_name">введите имя</string>
+    <string name="edit_age">введите возраст</string>
+</resources>

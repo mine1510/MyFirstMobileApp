@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="edit_message">enter message</string>
+    <string name="button_send">send</string>
+    <string name="action_settings">settings</string>
+    <string name="tital_activity_main">MainActivity</string>
+    <string name="tital_activity_display_message">My Message</string>
+    <string name="action_search">search</string>
+    <string name="but_fr_1">fragment 1</string>
+    <string name="but_fr_2">fragment 2</string>
+    <string name="buttonSave">save</string>
+    <string name="reTextButton">throw off</string>
+    <string name="fileSave">files</string>
+    <string name="read_message">read file</string>
+    <string name="saved">saved</string>
+    <string name="delete_message">delete</string>
+    <string name="deleted">deleted</string>
+    <string name="read_base">read base</string>
+    <string name="to_base">go to database</string>
+    <string name="database">DataBase</string>
+    <string name="name">name</string>
+    <string name="age">age</string>
+    <string name="add_to_base">add to base</string>
+    <string name="edit_name">enter name</string>
+    <string name="edit_age">enter age</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

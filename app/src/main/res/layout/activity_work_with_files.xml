@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    tools:context=".WorkWithFiles">
+
+    <EditText
+        android:id="@+id/file_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/edit_message"/>
+    <Button
+        android:id="@+id/save_message"
+        android:onClick="saveMessageFile"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/buttonSave"/>
+    <Button
+        android:id="@+id/read_message"
+        android:onClick="readMessageFile"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/read_message"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="goToBase"
+        android:text="@string/to_base"/>
+</LinearLayout>
