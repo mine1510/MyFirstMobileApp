@@ -23,5 +23,11 @@
     <string name="add_to_base">add to base</string>
     <string name="edit_name">enter name</string>
     <string name="edit_age">enter age</string>
+    <string name="work_with_app">work with apps</string>
+    <string name="call">call</string>
+    <string name="edit_call">enter number</string>
+    <string name="open_browser">open browser</string>
+    <string name="open_map">open map</string>
+    <string name="open_calendar">open calendar</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>

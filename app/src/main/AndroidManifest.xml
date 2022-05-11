@@ -16,10 +16,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApp">
         <activity
+            android:name=".WorkWithApp"
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
+        <activity
             android:name=".SQLiteWork"
             android:exported="false"
             android:label="@string/database"
-            android:parentActivityName=".WorkWithFiles"/>
+            android:parentActivityName=".WorkWithFiles" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -40,8 +44,7 @@
         <activity
             android:name=".WorkWithFiles"
             android:label="@string/fileSave"
-            android:parentActivityName=".MainActivity">
-        </activity>
+            android:parentActivityName=".MainActivity"/>
     </application>
 
 </manifest>

@@ -35,5 +35,9 @@
         android:layout_height="50dp"
         android:onClick="fileSave"
         android:text="@string/fileSave" />
-
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:onClick="workWithApp"
+        android:text="@string/work_with_app" />
 </LinearLayout>

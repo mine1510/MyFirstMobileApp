@@ -121,6 +121,10 @@ public class MainActivity extends AppCompatActivity {
         super.onSaveInstanceState(savedInstanceState);
     }
 
+    public void workWithApp(View view){
+        Intent intent = new Intent(this, WorkWithApp.class);
+        startActivity(intent);
+    }
 
     @Override
     public void onDestroy(){

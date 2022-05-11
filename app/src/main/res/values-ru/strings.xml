@@ -23,4 +23,10 @@
     <string name="add_to_base">добавить в базу</string>
     <string name="edit_name">введите имя</string>
     <string name="edit_age">введите возраст</string>
+    <string name="work_with_app">работа с приложениями</string>
+    <string name="call">позвонить</string>
+    <string name="edit_call">введите номер</string>
+    <string name="open_browser">открыть браузер</string>
+    <string name="open_map">открыть карту</string>
+    <string name="open_calendar">открыть календарь</string>
 </resources>
