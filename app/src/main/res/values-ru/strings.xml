@@ -29,4 +29,5 @@
     <string name="open_browser">открыть браузер</string>
     <string name="open_map">открыть карту</string>
     <string name="open_calendar">открыть календарь</string>
+    <string name="find_number">найти номер</string>
 </resources>

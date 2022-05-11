@@ -29,5 +29,6 @@
     <string name="open_browser">open browser</string>
     <string name="open_map">open map</string>
     <string name="open_calendar">open calendar</string>
+    <string name="find_number">find number</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
